@@ -1,0 +1,2 @@
+Name: japan
+Cash: 100
